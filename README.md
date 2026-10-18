@@ -4,17 +4,26 @@
   <a href="https://github.com/devJMSF"><img src="https://img.shields.io/badge/GitHub-devJMSF-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/jorge-m-677ba912b/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff" alt="LinkedIn" /></a>
   <br/>
-  <strong>🌎 IDIOMAS</strong><br/>
-  <img src="https://img.shields.io/badge/Portugu%C3%AAs-Fluente-0d1117?style=for-the-badge&logo=googletranslate&logoColor=00d9ff" alt="Português" />
-  <img src="https://img.shields.io/badge/Espa%C3%B1ol-Fala-0d1117?style=for-the-badge&logo=googletranslate&logoColor=00d9ff" alt="Espanhol" />
-  <img src="https://img.shields.io/badge/English-Speaking-0d1117?style=for-the-badge&logo=googletranslate&logoColor=00d9ff" alt="Inglês" />
+  <div align="center">
+  <h3>🌐 LANGUAGES</h3>
+
+  <img src="https://flagcdn.com/w80/br.png" width="42" alt="Brasil" />
+  &nbsp;
+  <img src="https://flagcdn.com/w80/es.png" width="42" alt="Espanha" />
+  &nbsp;
+  <img src="https://flagcdn.com/w80/us.png" width="42" alt="Estados Unidos" />
+
+  <br/>
+
+  <strong>Português</strong> &nbsp;|&nbsp;
+  <strong>Español</strong> &nbsp;|&nbsp;
+  <strong>English</strong>
+</div>
 </div>
 
 PERFIL
-
 Sou profissional de tecnologia com experiência em automação de processos com Python (RPA), integração entre sistemas e processamento de dados. Desenvolvo soluções para reduzir tarefas manuais, aumentar a confiabilidade das rotinas e dar mais visibilidade à execução dos processos.
 Minha atuação combina automação web e desktop, planilhas, APIs, logs e monitoramento. Atualmente, estou ampliando meu foco para Backend Python, com estudos e projetos práticos envolvendo APIs REST, modelagem de dados e arquitetura de aplicações.
-
 <div align="center">
   <img src="https://img.shields.io/badge/FOCO-RPA%20%2B%20BACKEND-07111f?style=for-the-badge&labelColor=07111f&color=00bfe8" alt="Foco RPA e Backend" />
   <img src="https://img.shields.io/badge/ABORDAGEM-Automa%C3%A7%C3%A3o%20com%20qualidade-07111f?style=for-the-badge&labelColor=07111f&color=00bfe8" alt="Automação com qualidade" />
