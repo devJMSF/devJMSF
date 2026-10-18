@@ -5,7 +5,8 @@
   <a href="https://www.linkedin.com/in/jorge-m-677ba912b/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff" alt="LinkedIn" /></a>
   <br/>
   <div align="center">
-  <h3>🌐 LANGUAGES</h3>
+    
+  <h2 align="center">IDIOMAS</h2>
 
   <img src="https://flagcdn.com/w80/br.png" width="42" alt="Brasil" />
   &nbsp;
@@ -29,7 +30,8 @@ Minha atuação combina automação web e desktop, planilhas, APIs, logs e monit
   <img src="https://img.shields.io/badge/ABORDAGEM-Automa%C3%A7%C3%A3o%20com%20qualidade-07111f?style=for-the-badge&labelColor=07111f&color=00bfe8" alt="Automação com qualidade" />
 </div>
 
-FORMAÇÃO
+<h2 align="center">FORMAÇÃO</h2>
+
 <table>
   <tr>
     <td width="64" align="center" valign="middle">
@@ -43,44 +45,16 @@ FORMAÇÃO
   </tr>
 </table>
 
-ÁREAS DE ATUAÇÃO
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ RPA & Automação</h3>
-      <p>Automação de tarefas web e desktop, rotinas com planilhas, tratamento de exceções, logs e monitoramento de execução.</p>
-      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00d9ff" alt="Python" />
-      <img src="https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=00d9ff" alt="Playwright" />
-      <img src="https://img.shields.io/badge/Selenium-0d1117?style=flat-square&logo=selenium&logoColor=00d9ff" alt="Selenium" />
-      <img src="https://img.shields.io/badge/PyAutoGUI-0d1117?style=flat-square&logo=python&logoColor=00d9ff" alt="PyAutoGUI" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔌 Backend & APIs</h3>
-      <p>Desenvolvimento de APIs, validação de dados, regras de negócio, integração de serviços e persistência em banco de dados.</p>
-      <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00d9ff" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=python&logoColor=00d9ff" alt="SQLAlchemy" />
-      <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00d9ff" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/REST%20API-0d1117?style=flat-square&logo=fastapi&logoColor=00d9ff" alt="REST API" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Dados & Planilhas</h3>
-      <p>ETL, consolidação de dados, leitura e transformação de arquivos Excel e PDF e comunicação com serviços externos.</p>
-      <img src="https://img.shields.io/badge/pandas-0d1117?style=flat-square&logo=pandas&logoColor=00d9ff" alt="pandas" />
-      <img src="https://img.shields.io/badge/openpyxl-0d1117?style=flat-square&logo=python&logoColor=00d9ff" alt="openpyxl" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Engenharia & Operação</h3>
-      <p>Versionamento, configuração por ambiente, gestão de credenciais, rastreabilidade e preparação de processos para deploy.</p>
-      <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00d9ff" alt="Git" />
-      <img src="https://img.shields.io/badge/Azure%20Repos-0d1117?style=flat-square&logo=azuredevops&logoColor=00d9ff" alt="Azure Repos" />
-      <img src="https://img.shields.io/badge/Azure%20Key%20Vault-0d1117?style=flat-square&logo=microsoftazure&logoColor=00d9ff" alt="Azure Key Vault" />
-    </td>
-  </tr>
-</table>
 
-PROJETOS EM DESENVOLVIMENTO
+<h2 align="center">TECNOLOGIAS</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,dotnet,postgres,git,github,azure,vscode&theme=dark" alt="Python, FastAPI, Django, Node.js, .NET, PostgreSQL, Git, GitHub, Azure e VS Code" />
+</div>
+
+
+<h2 align="center">PROJETOS EM DESENVOLVIMENTO</h2>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -108,12 +82,8 @@ PROJETOS EM DESENVOLVIMENTO
   </tr>
 </table>
 
-TECNOLOGIAS
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,git,github,azure,vscode&theme=dark" alt="Tecnologias utilizadas" />
-</div>
+<h2 align="center">GIT RESULTADOS</h2>
 
-GITHUB EM NÚMEROS
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=devJMSF&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github" alt="Estatísticas do GitHub" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devJMSF&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Linguagens mais utilizadas" />
